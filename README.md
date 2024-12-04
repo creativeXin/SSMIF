@@ -1,7 +1,7 @@
 # SSMIF
-SSMIF: Enhanced Spatial-Spectral Mamba Interactive Fusion Network for Hyperspectral Change Detection
+SSMIF
 
-Welcome to the repository for our paper: "SSMIF: Enhanced Spatial-Spectral Mamba Interactive Fusion Network for Hyperspectral Change Detection."
+Welcome to the repository for our paper: "SSMIF"
 
 Coming Soon!
 
