@@ -24,6 +24,20 @@ pip install scikit-learn==1.4.2
 pip install calflops
 ``` 
 
+## 📁 Data Preparation
+
+The dataset can be downloaded from [BaiduNetdisk](https://pan.baidu.com/s/1Dzej6qcsNi_ggyvBw3vWfw?pwd=fgzm).
+
+Please place the files under the `dataset/Yancheng/` directory in the project root:
+
+```text
+dataset/
+└── Yancheng/
+    ├── farm06.mat
+    ├── farm07.mat
+    └── label.mat
+
+``` 
 ## 📚 Citation
 
 If you find this project helpful for your research, please kindly consider citing our paper and giving this repo a ⭐:
